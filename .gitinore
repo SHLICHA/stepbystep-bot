@@ -1,0 +1,15 @@
+echo ".env
+*.pyc
+__pycache__/
+*.sqlite3
+*.log
+/media/
+/staticfiles/
+.DS_Store
+.venv
+venv/
+.env/
+.idea/
+.vscode/
+db.sqlite3
+*.bak" > .gitignore

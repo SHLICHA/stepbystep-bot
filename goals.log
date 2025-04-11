@@ -1,0 +1,865 @@
+2025-04-10 20:28:04,023 - aiogram.dispatcher - INFO - Start polling
+2025-04-10 20:28:04,198 - aiogram.dispatcher - INFO - Run polling for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-10 20:28:04,276 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_goals_menu
+2025-04-10 20:28:04,519 - aiogram.event - INFO - Update id=257372892 is handled. Duration 246 ms by bot id=5880203343
+2025-04-10 20:28:09,855 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-10 20:28:09,877 - bot.handlers.my_goals - INFO - Найдено активных целей: 3
+2025-04-10 20:28:09,877 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-10 20:28:09,877 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-10 20:28:10,082 - aiogram.event - INFO - Update id=257372893 is handled. Duration 230 ms by bot id=5880203343
+2025-04-10 20:28:11,867 - bot.handlers.my_goals - INFO - Получен callback: goal_next_0
+2025-04-10 20:28:11,868 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 3
+2025-04-10 20:28:11,868 - bot.handlers.my_goals - INFO - Текущий индекс: 0
+2025-04-10 20:28:11,868 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 0
+2025-04-10 20:28:11,868 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 1
+2025-04-10 20:28:11,868 - bot.handlers.my_goals - INFO - Обновление индекса с 0 на 1
+2025-04-10 20:28:11,868 - bot.handlers.my_goals - INFO - Отображаем цель: ID=4, 'Выздороветь'
+2025-04-10 20:28:11,869 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 1, Всего: 3
+2025-04-10 20:28:11,869 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_1
+2025-04-10 20:28:11,869 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_1
+2025-04-10 20:28:11,869 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='2/3', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-10 20:28:11,945 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-10 20:28:11,945 - aiogram.event - INFO - Update id=257372894 is handled. Duration 83 ms by bot id=5880203343
+2025-04-10 20:28:14,693 - bot.handlers.my_goals - INFO - Получен callback: goal_next_1
+2025-04-10 20:28:14,693 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 3
+2025-04-10 20:28:14,693 - bot.handlers.my_goals - INFO - Текущий индекс: 1
+2025-04-10 20:28:14,693 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 1
+2025-04-10 20:28:14,693 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 2
+2025-04-10 20:28:14,694 - bot.handlers.my_goals - INFO - Обновление индекса с 1 на 2
+2025-04-10 20:28:14,694 - bot.handlers.my_goals - INFO - Отображаем цель: ID=5, 'Не сдохнуть'
+2025-04-10 20:28:14,694 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 2, Всего: 3
+2025-04-10 20:28:14,695 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_2
+2025-04-10 20:28:14,695 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='3/3', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-10 20:28:14,764 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-10 20:28:14,764 - aiogram.event - INFO - Update id=257372895 is handled. Duration 74 ms by bot id=5880203343
+2025-04-10 20:28:16,211 - bot.handlers.my_goals - INFO - Получен callback: goal_prev_2
+2025-04-10 20:28:16,211 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 3
+2025-04-10 20:28:16,212 - bot.handlers.my_goals - INFO - Текущий индекс: 2
+2025-04-10 20:28:16,212 - bot.handlers.my_goals - INFO - Обработка действия: prev, индекс: 2
+2025-04-10 20:28:16,212 - bot.handlers.my_goals - INFO - Кнопка 'Назад'. Новый индекс: 1
+2025-04-10 20:28:16,212 - bot.handlers.my_goals - INFO - Обновление индекса с 2 на 1
+2025-04-10 20:28:16,212 - bot.handlers.my_goals - INFO - Отображаем цель: ID=4, 'Выздороветь'
+2025-04-10 20:28:16,212 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 1, Всего: 3
+2025-04-10 20:28:16,212 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_1
+2025-04-10 20:28:16,212 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_1
+2025-04-10 20:28:16,212 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='2/3', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-10 20:28:16,274 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-10 20:28:16,274 - aiogram.event - INFO - Update id=257372896 is handled. Duration 68 ms by bot id=5880203343
+2025-04-10 20:28:17,317 - bot.handlers.my_goals - INFO - Получен callback: goal_prev_1
+2025-04-10 20:28:17,318 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 3
+2025-04-10 20:28:17,318 - bot.handlers.my_goals - INFO - Текущий индекс: 1
+2025-04-10 20:28:17,318 - bot.handlers.my_goals - INFO - Обработка действия: prev, индекс: 1
+2025-04-10 20:28:17,318 - bot.handlers.my_goals - INFO - Кнопка 'Назад'. Новый индекс: 0
+2025-04-10 20:28:17,318 - bot.handlers.my_goals - INFO - Обновление индекса с 1 на 0
+2025-04-10 20:28:17,318 - bot.handlers.my_goals - INFO - Отображаем цель: ID=2, 'Похудеть'
+2025-04-10 20:28:17,319 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 0, Всего: 3
+2025-04-10 20:28:17,319 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_0
+2025-04-10 20:28:17,319 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='1/3', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_0', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-10 20:28:17,392 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-10 20:28:17,393 - aiogram.event - INFO - Update id=257372897 is handled. Duration 82 ms by bot id=5880203343
+2025-04-10 20:28:43,385 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_goals_menu
+2025-04-10 20:28:43,573 - aiogram.event - INFO - Update id=257372898 is handled. Duration 189 ms by bot id=5880203343
+2025-04-10 20:28:45,509 - aiogram.event - INFO - Update id=257372899 is handled. Duration 441 ms by bot id=5880203343
+2025-04-10 20:28:48,587 - aiogram.event - INFO - Update id=257372900 is handled. Duration 141 ms by bot id=5880203343
+2025-04-10 20:28:50,965 - aiogram.event - INFO - Update id=257372901 is handled. Duration 137 ms by bot id=5880203343
+2025-04-10 20:28:52,970 - aiogram.event - INFO - Update id=257372902 is handled. Duration 127 ms by bot id=5880203343
+2025-04-10 20:28:55,596 - aiogram.event - INFO - Update id=257372903 is handled. Duration 146 ms by bot id=5880203343
+2025-04-10 20:28:56,699 - aiogram.event - INFO - Update id=257372904 is handled. Duration 132 ms by bot id=5880203343
+2025-04-10 20:29:03,231 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-10 20:29:03,235 - bot.handlers.my_goals - INFO - Найдено активных целей: 3
+2025-04-10 20:29:03,236 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-10 20:29:03,236 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-10 20:29:03,420 - aiogram.event - INFO - Update id=257372905 is handled. Duration 192 ms by bot id=5880203343
+2025-04-10 20:29:04,659 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_goals_menu
+2025-04-10 20:29:04,778 - aiogram.event - INFO - Update id=257372906 is handled. Duration 120 ms by bot id=5880203343
+2025-04-10 20:29:05,425 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_main
+2025-04-10 20:29:05,494 - aiogram.event - INFO - Update id=257372907 is handled. Duration 70 ms by bot id=5880203343
+2025-04-10 20:29:06,473 - aiogram.event - INFO - Update id=257372908 is handled. Duration 129 ms by bot id=5880203343
+2025-04-10 20:29:08,866 - aiogram.event - INFO - Update id=257372909 is handled. Duration 136 ms by bot id=5880203343
+2025-04-10 20:29:12,632 - aiogram.event - INFO - Update id=257372910 is handled. Duration 105 ms by bot id=5880203343
+2025-04-10 20:29:15,722 - aiogram.event - INFO - Update id=257372911 is not handled. Duration 11 ms by bot id=5880203343
+2025-04-10 20:29:18,071 - aiogram.event - INFO - Update id=257372912 is handled. Duration 151 ms by bot id=5880203343
+2025-04-10 20:29:20,107 - aiogram.event - INFO - Update id=257372913 is handled. Duration 143 ms by bot id=5880203343
+2025-04-10 20:29:20,990 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-10 20:29:20,995 - bot.handlers.my_goals - INFO - Найдено активных целей: 4
+2025-04-10 20:29:20,995 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-10 20:29:20,996 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-10 20:29:21,178 - aiogram.event - INFO - Update id=257372914 is handled. Duration 190 ms by bot id=5880203343
+2025-04-10 20:29:23,266 - bot.handlers.my_goals - INFO - Получен callback: goal_next_0
+2025-04-10 20:29:23,266 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 4
+2025-04-10 20:29:23,266 - bot.handlers.my_goals - INFO - Текущий индекс: 0
+2025-04-10 20:29:23,266 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 0
+2025-04-10 20:29:23,267 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 1
+2025-04-10 20:29:23,267 - bot.handlers.my_goals - INFO - Обновление индекса с 0 на 1
+2025-04-10 20:29:23,267 - bot.handlers.my_goals - INFO - Отображаем цель: ID=4, 'Выздороветь'
+2025-04-10 20:29:23,267 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 1, Всего: 4
+2025-04-10 20:29:23,267 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_1
+2025-04-10 20:29:23,268 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_1
+2025-04-10 20:29:23,268 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='2/4', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-10 20:29:23,351 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-10 20:29:23,351 - aiogram.event - INFO - Update id=257372915 is handled. Duration 92 ms by bot id=5880203343
+2025-04-10 20:29:24,835 - bot.handlers.my_goals - INFO - Получен callback: goal_next_1
+2025-04-10 20:29:24,835 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 4
+2025-04-10 20:29:24,835 - bot.handlers.my_goals - INFO - Текущий индекс: 1
+2025-04-10 20:29:24,835 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 1
+2025-04-10 20:29:24,835 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 2
+2025-04-10 20:29:24,836 - bot.handlers.my_goals - INFO - Обновление индекса с 1 на 2
+2025-04-10 20:29:24,836 - bot.handlers.my_goals - INFO - Отображаем цель: ID=5, 'Не сдохнуть'
+2025-04-10 20:29:24,836 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 2, Всего: 4
+2025-04-10 20:29:24,836 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_2
+2025-04-10 20:29:24,836 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_2
+2025-04-10 20:29:24,837 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='3/4', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-10 20:29:24,971 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-10 20:29:24,971 - aiogram.event - INFO - Update id=257372916 is handled. Duration 141 ms by bot id=5880203343
+2025-04-10 20:29:25,838 - bot.handlers.my_goals - INFO - Получен callback: goal_next_2
+2025-04-10 20:29:25,839 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 4
+2025-04-10 20:29:25,839 - bot.handlers.my_goals - INFO - Текущий индекс: 2
+2025-04-10 20:29:25,839 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 2
+2025-04-10 20:29:25,839 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 3
+2025-04-10 20:29:25,839 - bot.handlers.my_goals - INFO - Обновление индекса с 2 на 3
+2025-04-10 20:29:25,839 - bot.handlers.my_goals - INFO - Отображаем цель: ID=6, 'Уволиться'
+2025-04-10 20:29:25,840 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 3, Всего: 4
+2025-04-10 20:29:25,840 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_3
+2025-04-10 20:29:25,840 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_3', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='4/4', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-10 20:29:25,969 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-10 20:29:25,970 - aiogram.event - INFO - Update id=257372917 is handled. Duration 136 ms by bot id=5880203343
+2025-04-10 20:31:25,287 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-10 20:31:25,288 - aiogram.dispatcher - INFO - Polling stopped for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-10 20:31:25,288 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-10 20:31:31,058 - aiogram.dispatcher - INFO - Start polling
+2025-04-10 20:31:31,240 - aiogram.dispatcher - INFO - Run polling for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-10 20:31:31,327 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_goals_menu
+2025-04-10 20:31:31,585 - aiogram.event - INFO - Update id=257372918 is handled. Duration 258 ms by bot id=5880203343
+2025-04-10 20:31:33,423 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-10 20:31:33,445 - bot.handlers.my_goals - INFO - Найдено активных целей: 4
+2025-04-10 20:31:33,446 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-10 20:31:33,446 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-10 20:31:33,622 - aiogram.event - INFO - Update id=257372919 is handled. Duration 202 ms by bot id=5880203343
+2025-04-10 20:31:35,202 - aiogram.event - INFO - Update id=257372920 is handled. Duration 97 ms by bot id=5880203343
+2025-04-10 20:31:36,937 - aiogram.event - INFO - Update id=257372921 is handled. Duration 66 ms by bot id=5880203343
+2025-04-10 20:32:12,618 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-10 20:32:12,619 - aiogram.dispatcher - INFO - Polling stopped for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-10 20:32:12,619 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-10 20:32:17,126 - aiogram.dispatcher - INFO - Start polling
+2025-04-10 20:32:17,316 - aiogram.dispatcher - INFO - Run polling for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-10 20:32:17,398 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_goals_menu
+2025-04-10 20:32:17,638 - aiogram.event - INFO - Update id=257372922 is handled. Duration 242 ms by bot id=5880203343
+2025-04-10 20:32:18,791 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-10 20:32:18,810 - bot.handlers.my_goals - INFO - Найдено активных целей: 4
+2025-04-10 20:32:18,810 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-10 20:32:18,810 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-10 20:32:19,036 - aiogram.event - INFO - Update id=257372923 is handled. Duration 249 ms by bot id=5880203343
+2025-04-10 20:32:20,042 - bot.handlers.my_goals - INFO - Получен callback: goal_next_0
+2025-04-10 20:32:20,042 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 4
+2025-04-10 20:32:20,042 - bot.handlers.my_goals - INFO - Текущий индекс: 0
+2025-04-10 20:32:20,042 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 0
+2025-04-10 20:32:20,042 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 1
+2025-04-10 20:32:20,043 - bot.handlers.my_goals - INFO - Обновление индекса с 0 на 1
+2025-04-10 20:32:20,043 - bot.handlers.my_goals - INFO - Отображаем цель: ID=4, 'Выздороветь'
+2025-04-10 20:32:20,043 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 1, Всего: 4
+2025-04-10 20:32:20,043 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_1
+2025-04-10 20:32:20,043 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_1
+2025-04-10 20:32:20,044 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='2/4', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-10 20:32:20,112 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-10 20:32:20,112 - aiogram.event - INFO - Update id=257372924 is handled. Duration 74 ms by bot id=5880203343
+2025-04-10 20:32:21,303 - bot.handlers.my_goals - INFO - Получен callback: goal_next_1
+2025-04-10 20:32:21,304 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 4
+2025-04-10 20:32:21,304 - bot.handlers.my_goals - INFO - Текущий индекс: 1
+2025-04-10 20:32:21,304 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 1
+2025-04-10 20:32:21,304 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 2
+2025-04-10 20:32:21,304 - bot.handlers.my_goals - INFO - Обновление индекса с 1 на 2
+2025-04-10 20:32:21,304 - bot.handlers.my_goals - INFO - Отображаем цель: ID=5, 'Не сдохнуть'
+2025-04-10 20:32:21,305 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 2, Всего: 4
+2025-04-10 20:32:21,305 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_2
+2025-04-10 20:32:21,305 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_2
+2025-04-10 20:32:21,305 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='3/4', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-10 20:32:21,383 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-10 20:32:21,384 - aiogram.event - INFO - Update id=257372925 is handled. Duration 86 ms by bot id=5880203343
+2025-04-10 20:32:22,185 - bot.handlers.my_goals - INFO - Получен callback: goal_next_2
+2025-04-10 20:32:22,186 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 4
+2025-04-10 20:32:22,186 - bot.handlers.my_goals - INFO - Текущий индекс: 2
+2025-04-10 20:32:22,186 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 2
+2025-04-10 20:32:22,186 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 3
+2025-04-10 20:32:22,186 - bot.handlers.my_goals - INFO - Обновление индекса с 2 на 3
+2025-04-10 20:32:22,186 - bot.handlers.my_goals - INFO - Отображаем цель: ID=6, 'Уволиться'
+2025-04-10 20:32:22,187 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 3, Всего: 4
+2025-04-10 20:32:22,187 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_3
+2025-04-10 20:32:22,187 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_3', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='4/4', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-10 20:32:22,257 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-10 20:32:22,257 - aiogram.event - INFO - Update id=257372926 is handled. Duration 77 ms by bot id=5880203343
+2025-04-10 20:32:26,110 - aiogram.event - INFO - Update id=257372927 is not handled. Duration 10 ms by bot id=5880203343
+2025-04-10 20:32:29,337 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_goals_menu
+2025-04-10 20:32:29,455 - aiogram.event - INFO - Update id=257372928 is handled. Duration 121 ms by bot id=5880203343
+2025-04-11 18:45:38,822 - aiogram.dispatcher - INFO - Start polling
+2025-04-11 18:45:41,578 - aiogram.dispatcher - INFO - Run polling for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-11 18:45:45,377 - aiogram.event - INFO - Update id=257372929 is not handled. Duration 3688 ms by bot id=5880203343
+2025-04-11 18:45:45,377 - aiogram.event - ERROR - Cause exception while process update id=257372929 by bot id=5880203343
+TelegramForbiddenError: Telegram server says - Forbidden: bot was blocked by the user
+Traceback (most recent call last):
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/shlicha/step_by_step/bot/handlers/start.py", line 13, in cmd_start
+    await message.answer(
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/client/bot.py", line 453, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/client/session/aiohttp.py", line 185, in make_request
+    response = self.check_response(
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/client/session/base.py", line 128, in check_response
+    raise TelegramForbiddenError(method=method, message=description)
+aiogram.exceptions.TelegramForbiddenError: Telegram server says - Forbidden: bot was blocked by the user
+2025-04-11 18:46:56,758 - aiogram.event - INFO - Update id=257372930 is handled. Duration 235 ms by bot id=5880203343
+2025-04-11 18:47:05,055 - aiogram.event - INFO - Update id=257372931 is handled. Duration 328 ms by bot id=5880203343
+2025-04-11 18:47:07,068 - aiogram.event - INFO - Update id=257372932 is handled. Duration 385 ms by bot id=5880203343
+2025-04-11 18:47:12,641 - aiogram.event - INFO - Update id=257372933 is handled. Duration 239 ms by bot id=5880203343
+2025-04-11 18:47:15,360 - aiogram.event - INFO - Update id=257372934 is not handled. Duration 12 ms by bot id=5880203343
+2025-04-11 18:47:19,280 - aiogram.event - INFO - Update id=257372935 is handled. Duration 437 ms by bot id=5880203343
+2025-04-11 18:47:22,381 - aiogram.event - INFO - Update id=257372936 is handled. Duration 303 ms by bot id=5880203343
+2025-04-11 18:47:24,696 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 18:47:24,709 - bot.handlers.my_goals - INFO - Найдено активных целей: 5
+2025-04-11 18:47:24,709 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 18:47:24,709 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 18:47:25,117 - aiogram.event - INFO - Update id=257372937 is handled. Duration 424 ms by bot id=5880203343
+2025-04-11 18:47:28,352 - bot.handlers.my_goals - INFO - Получен callback: goal_next_0
+2025-04-11 18:47:28,352 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 5
+2025-04-11 18:47:28,352 - bot.handlers.my_goals - INFO - Текущий индекс: 0
+2025-04-11 18:47:28,353 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 0
+2025-04-11 18:47:28,353 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 1
+2025-04-11 18:47:28,353 - bot.handlers.my_goals - INFO - Обновление индекса с 0 на 1
+2025-04-11 18:47:28,354 - bot.handlers.my_goals - INFO - Отображаем цель: ID=4, 'Выздороветь'
+2025-04-11 18:47:28,355 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 1, Всего: 5
+2025-04-11 18:47:28,355 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_1
+2025-04-11 18:47:28,356 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_1
+2025-04-11 18:47:28,356 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='2/5', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 18:47:28,536 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 18:47:28,536 - aiogram.event - INFO - Update id=257372938 is handled. Duration 188 ms by bot id=5880203343
+2025-04-11 18:50:46,722 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-11 18:50:46,724 - aiogram.dispatcher - INFO - Polling stopped for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-11 18:50:46,724 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-11 18:55:44,388 - aiogram.dispatcher - INFO - Start polling
+2025-04-11 18:55:45,547 - aiogram.dispatcher - INFO - Run polling for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-11 18:55:48,508 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_goals_menu
+2025-04-11 18:55:51,682 - aiogram.event - INFO - Update id=257372939 is handled. Duration 3175 ms by bot id=5880203343
+2025-04-11 18:56:10,485 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 18:56:10,508 - bot.handlers.my_goals - INFO - Найдено активных целей: 5
+2025-04-11 18:56:10,509 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 18:56:10,509 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 18:56:11,054 - aiogram.event - INFO - Update id=257372940 is handled. Duration 572 ms by bot id=5880203343
+2025-04-11 18:56:13,780 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_goals_menu
+2025-04-11 18:56:14,392 - aiogram.event - INFO - Update id=257372941 is handled. Duration 614 ms by bot id=5880203343
+2025-04-11 18:56:16,438 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_main
+2025-04-11 18:56:16,746 - aiogram.event - INFO - Update id=257372942 is handled. Duration 310 ms by bot id=5880203343
+2025-04-11 18:56:19,236 - aiogram.event - INFO - Update id=257372943 is handled. Duration 576 ms by bot id=5880203343
+2025-04-11 18:56:21,343 - aiogram.event - INFO - Update id=257372944 is handled. Duration 198 ms by bot id=5880203343
+2025-04-11 18:56:28,769 - aiogram.event - INFO - Update id=257372945 is handled. Duration 162 ms by bot id=5880203343
+2025-04-11 18:56:30,889 - aiogram.event - INFO - Update id=257372946 is not handled. Duration 20 ms by bot id=5880203343
+2025-04-11 18:56:32,825 - aiogram.event - INFO - Update id=257372947 is handled. Duration 680 ms by bot id=5880203343
+2025-04-11 18:56:34,797 - aiogram.event - INFO - Update id=257372948 is handled. Duration 158 ms by bot id=5880203343
+2025-04-11 18:56:38,810 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 18:56:38,814 - bot.handlers.my_goals - INFO - Найдено активных целей: 6
+2025-04-11 18:56:38,814 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 18:56:38,814 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 18:56:39,686 - aiogram.event - INFO - Update id=257372949 is handled. Duration 879 ms by bot id=5880203343
+2025-04-11 18:56:40,469 - bot.handlers.my_goals - INFO - Получен callback: goal_next_0
+2025-04-11 18:56:40,470 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 6
+2025-04-11 18:56:40,470 - bot.handlers.my_goals - INFO - Текущий индекс: 0
+2025-04-11 18:56:40,470 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 0
+2025-04-11 18:56:40,471 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 1
+2025-04-11 18:56:40,471 - bot.handlers.my_goals - INFO - Обновление индекса с 0 на 1
+2025-04-11 18:56:40,471 - bot.handlers.my_goals - INFO - Отображаем цель: ID=4, 'Выздороветь'
+2025-04-11 18:56:40,472 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 1, Всего: 6
+2025-04-11 18:56:40,472 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_1
+2025-04-11 18:56:40,473 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_1
+2025-04-11 18:56:40,473 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='2/6', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 18:56:40,780 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 18:56:40,781 - aiogram.event - INFO - Update id=257372950 is handled. Duration 318 ms by bot id=5880203343
+2025-04-11 18:56:41,900 - aiogram.event - INFO - Update id=257372951 is handled. Duration 14 ms by bot id=5880203343
+2025-04-11 18:56:43,063 - bot.handlers.my_goals - INFO - Получен callback: goal_next_1
+2025-04-11 18:56:43,063 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 6
+2025-04-11 18:56:43,063 - bot.handlers.my_goals - INFO - Текущий индекс: 1
+2025-04-11 18:56:43,064 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 1
+2025-04-11 18:56:43,064 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 2
+2025-04-11 18:56:43,064 - bot.handlers.my_goals - INFO - Обновление индекса с 1 на 2
+2025-04-11 18:56:43,064 - bot.handlers.my_goals - INFO - Отображаем цель: ID=5, 'Не сдохнуть'
+2025-04-11 18:56:43,065 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 2, Всего: 6
+2025-04-11 18:56:43,065 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_2
+2025-04-11 18:56:43,065 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_2
+2025-04-11 18:56:43,067 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='3/6', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 18:56:44,163 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 18:56:44,164 - aiogram.event - INFO - Update id=257372952 is handled. Duration 1106 ms by bot id=5880203343
+2025-04-11 18:56:44,989 - bot.handlers.my_goals - INFO - Получен callback: goal_next_2
+2025-04-11 18:56:44,989 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 6
+2025-04-11 18:56:44,990 - bot.handlers.my_goals - INFO - Текущий индекс: 2
+2025-04-11 18:56:44,990 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 2
+2025-04-11 18:56:44,990 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 3
+2025-04-11 18:56:44,990 - bot.handlers.my_goals - INFO - Обновление индекса с 2 на 3
+2025-04-11 18:56:44,991 - bot.handlers.my_goals - INFO - Отображаем цель: ID=6, 'Уволиться'
+2025-04-11 18:56:44,991 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 3, Всего: 6
+2025-04-11 18:56:44,991 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_3
+2025-04-11 18:56:44,992 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_3
+2025-04-11 18:56:44,992 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_3', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='4/6', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_3', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 18:56:45,340 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 18:56:45,340 - aiogram.event - INFO - Update id=257372953 is handled. Duration 357 ms by bot id=5880203343
+2025-04-11 18:56:46,707 - bot.handlers.my_goals - INFO - Получен callback: goal_next_3
+2025-04-11 18:56:46,708 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 6
+2025-04-11 18:56:46,708 - bot.handlers.my_goals - INFO - Текущий индекс: 3
+2025-04-11 18:56:46,708 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 3
+2025-04-11 18:56:46,708 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 4
+2025-04-11 18:56:46,708 - bot.handlers.my_goals - INFO - Обновление индекса с 3 на 4
+2025-04-11 18:56:46,709 - bot.handlers.my_goals - INFO - Отображаем цель: ID=39, 'Научиться'
+2025-04-11 18:56:46,709 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 4, Всего: 6
+2025-04-11 18:56:46,709 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_4
+2025-04-11 18:56:46,709 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_4
+2025-04-11 18:56:46,710 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_4', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='5/6', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_4', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 18:56:46,792 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 18:56:46,792 - aiogram.event - INFO - Update id=257372954 is handled. Duration 92 ms by bot id=5880203343
+2025-04-11 18:56:48,111 - bot.handlers.my_goals - INFO - Получен callback: goal_next_4
+2025-04-11 18:56:48,111 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 6
+2025-04-11 18:56:48,112 - bot.handlers.my_goals - INFO - Текущий индекс: 4
+2025-04-11 18:56:48,112 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 4
+2025-04-11 18:56:48,112 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 5
+2025-04-11 18:56:48,112 - bot.handlers.my_goals - INFO - Обновление индекса с 4 на 5
+2025-04-11 18:56:48,112 - bot.handlers.my_goals - INFO - Отображаем цель: ID=40, 'Заебали'
+2025-04-11 18:56:48,112 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 5, Всего: 6
+2025-04-11 18:56:48,112 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_5
+2025-04-11 18:56:48,113 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_5', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='6/6', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 18:56:48,223 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 18:56:48,223 - aiogram.event - INFO - Update id=257372955 is handled. Duration 118 ms by bot id=5880203343
+2025-04-11 19:03:40,315 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-11 19:03:40,319 - aiogram.dispatcher - INFO - Polling stopped for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-11 19:03:40,319 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-11 19:14:35,218 - aiogram.dispatcher - INFO - Start polling
+2025-04-11 19:14:37,648 - aiogram.dispatcher - INFO - Run polling for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-11 19:14:37,933 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_goals_menu
+2025-04-11 19:14:38,360 - aiogram.event - INFO - Update id=257372957 is handled. Duration 437 ms by bot id=5880203343
+2025-04-11 19:14:38,722 - bot.handlers.back_handler - ERROR - Error in back handler: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-04-11 19:14:38,808 - aiogram.event - INFO - Update id=257372956 is not handled. Duration 886 ms by bot id=5880203343
+2025-04-11 19:14:38,808 - aiogram.event - ERROR - Cause exception while process update id=257372956 by bot id=5880203343
+TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+Traceback (most recent call last):
+  File "/home/shlicha/step_by_step/bot/handlers/back_handler.py", line 19, in handle_back
+    await show_goals_menu(callback)
+  File "/home/shlicha/step_by_step/bot/handlers/my_goals.py", line 77, in show_goals_menu
+    await callback.answer()
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/client/bot.py", line 453, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/client/session/aiohttp.py", line 185, in make_request
+    response = self.check_response(
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 309, in _process_update
+    response = await self.feed_update(bot, update, **kwargs)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 158, in feed_update
+    response = await self.update.wrap_outer_middleware(
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/error.py", line 25, in __call__
+    return await handler(event, data)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/middlewares/user_context.py", line 56, in __call__
+    return await handler(event, data)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/fsm/middleware.py", line 42, in __call__
+    return await handler(event, data)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/dispatcher.py", line 276, in _listen_update
+    return await self.propagate_event(update_type=update_type, event=event, **kwargs)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 146, in propagate_event
+    return await observer.wrap_outer_middleware(_wrapped, event=event, data=kwargs)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 141, in _wrapped
+    return await self._propagate_event(
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/router.py", line 166, in _propagate_event
+    response = await observer.trigger(event, **kwargs)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/telegram.py", line 121, in trigger
+    return await wrapped_inner(event, kwargs)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/dispatcher/event/handler.py", line 43, in call
+    return await wrapped()
+  File "/home/shlicha/step_by_step/bot/handlers/back_handler.py", line 26, in handle_back
+    await callback.answer("⚠️ Ошибка при обработке кнопки Назад")
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/methods/base.py", line 84, in emit
+    return await bot(self)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/client/bot.py", line 453, in __call__
+    return await self.session(self, method, timeout=request_timeout)
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/client/session/base.py", line 254, in __call__
+    return cast(TelegramType, await middleware(bot, method))
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/client/session/aiohttp.py", line 185, in make_request
+    response = self.check_response(
+  File "/home/shlicha/step_by_step/venv/lib/python3.10/site-packages/aiogram/client/session/base.py", line 120, in check_response
+    raise TelegramBadRequest(method=method, message=description)
+aiogram.exceptions.TelegramBadRequest: Telegram server says - Bad Request: query is too old and response timeout expired or query ID is invalid
+2025-04-11 19:14:50,166 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_main
+2025-04-11 19:14:50,263 - aiogram.event - INFO - Update id=257372959 is handled. Duration 100 ms by bot id=5880203343
+2025-04-11 19:14:50,686 - aiogram.event - INFO - Update id=257372958 is handled. Duration 1871 ms by bot id=5880203343
+2025-04-11 19:14:51,809 - aiogram.event - INFO - Update id=257372960 is handled. Duration 171 ms by bot id=5880203343
+2025-04-11 19:14:55,036 - aiogram.event - INFO - Update id=257372961 is handled. Duration 993 ms by bot id=5880203343
+2025-04-11 19:15:02,341 - aiogram.event - INFO - Update id=257372962 is handled. Duration 314 ms by bot id=5880203343
+2025-04-11 19:15:06,446 - aiogram.event - INFO - Update id=257372963 is handled. Duration 178 ms by bot id=5880203343
+2025-04-11 19:15:12,392 - aiogram.event - INFO - Update id=257372964 is handled. Duration 174 ms by bot id=5880203343
+2025-04-11 19:15:13,922 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:15:13,943 - bot.handlers.my_goals - INFO - Найдено активных целей: 7
+2025-04-11 19:15:13,943 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:15:13,943 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:15:14,575 - aiogram.event - INFO - Update id=257372965 is handled. Duration 657 ms by bot id=5880203343
+2025-04-11 19:15:16,305 - bot.handlers.my_goals - INFO - Получен callback: goal_next_0
+2025-04-11 19:15:16,305 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 7
+2025-04-11 19:15:16,305 - bot.handlers.my_goals - INFO - Текущий индекс: 0
+2025-04-11 19:15:16,306 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 0
+2025-04-11 19:15:16,306 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 1
+2025-04-11 19:15:16,306 - bot.handlers.my_goals - INFO - Обновление индекса с 0 на 1
+2025-04-11 19:15:16,306 - bot.handlers.my_goals - INFO - Отображаем цель: ID=2, 'Похудеть'
+2025-04-11 19:15:16,307 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 1, Всего: 7
+2025-04-11 19:15:16,307 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_1
+2025-04-11 19:15:16,307 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_1
+2025-04-11 19:15:16,307 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='2/7', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:15:16,396 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:15:16,396 - aiogram.event - INFO - Update id=257372966 is handled. Duration 96 ms by bot id=5880203343
+2025-04-11 19:15:17,596 - bot.handlers.my_goals - INFO - Получен callback: goal_next_1
+2025-04-11 19:15:17,599 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 7
+2025-04-11 19:15:17,600 - bot.handlers.my_goals - INFO - Текущий индекс: 1
+2025-04-11 19:15:17,600 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 1
+2025-04-11 19:15:17,600 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 2
+2025-04-11 19:15:17,600 - bot.handlers.my_goals - INFO - Обновление индекса с 1 на 2
+2025-04-11 19:15:17,601 - bot.handlers.my_goals - INFO - Отображаем цель: ID=5, 'Не сдохнуть'
+2025-04-11 19:15:17,601 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 2, Всего: 7
+2025-04-11 19:15:17,601 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_2
+2025-04-11 19:15:17,601 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_2
+2025-04-11 19:15:17,602 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='3/7', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:15:17,694 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:15:17,695 - aiogram.event - INFO - Update id=257372967 is handled. Duration 109 ms by bot id=5880203343
+2025-04-11 19:15:18,821 - bot.handlers.my_goals - INFO - Получен callback: goal_next_2
+2025-04-11 19:15:18,821 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 7
+2025-04-11 19:15:18,822 - bot.handlers.my_goals - INFO - Текущий индекс: 2
+2025-04-11 19:15:18,822 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 2
+2025-04-11 19:15:18,822 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 3
+2025-04-11 19:15:18,822 - bot.handlers.my_goals - INFO - Обновление индекса с 2 на 3
+2025-04-11 19:15:18,822 - bot.handlers.my_goals - INFO - Отображаем цель: ID=39, 'Научиться'
+2025-04-11 19:15:18,823 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 3, Всего: 7
+2025-04-11 19:15:18,823 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_3
+2025-04-11 19:15:18,824 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_3
+2025-04-11 19:15:18,824 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_3', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='4/7', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_3', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:15:18,975 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:15:18,976 - aiogram.event - INFO - Update id=257372968 is handled. Duration 162 ms by bot id=5880203343
+2025-04-11 19:15:19,516 - bot.handlers.my_goals - INFO - Получен callback: goal_next_3
+2025-04-11 19:15:19,516 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 7
+2025-04-11 19:15:19,516 - bot.handlers.my_goals - INFO - Текущий индекс: 3
+2025-04-11 19:15:19,516 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 3
+2025-04-11 19:15:19,516 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 4
+2025-04-11 19:15:19,516 - bot.handlers.my_goals - INFO - Обновление индекса с 3 на 4
+2025-04-11 19:15:19,517 - bot.handlers.my_goals - INFO - Отображаем цель: ID=40, 'Заебали'
+2025-04-11 19:15:19,517 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 4, Всего: 7
+2025-04-11 19:15:19,517 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_4
+2025-04-11 19:15:19,517 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_4
+2025-04-11 19:15:19,518 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_4', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='5/7', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_4', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:15:19,598 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:15:19,599 - aiogram.event - INFO - Update id=257372969 is handled. Duration 88 ms by bot id=5880203343
+2025-04-11 19:15:20,340 - bot.handlers.my_goals - INFO - Получен callback: goal_next_4
+2025-04-11 19:15:20,341 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 7
+2025-04-11 19:15:20,341 - bot.handlers.my_goals - INFO - Текущий индекс: 4
+2025-04-11 19:15:20,341 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 4
+2025-04-11 19:15:20,341 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 5
+2025-04-11 19:15:20,342 - bot.handlers.my_goals - INFO - Обновление индекса с 4 на 5
+2025-04-11 19:15:20,342 - bot.handlers.my_goals - INFO - Отображаем цель: ID=6, 'Уволиться'
+2025-04-11 19:15:20,342 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 5, Всего: 7
+2025-04-11 19:15:20,343 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_5
+2025-04-11 19:15:20,343 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_5
+2025-04-11 19:15:20,343 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_5', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='6/7', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_5', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:15:20,478 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:15:20,478 - aiogram.event - INFO - Update id=257372970 is handled. Duration 145 ms by bot id=5880203343
+2025-04-11 19:15:21,582 - bot.handlers.my_goals - INFO - Получен callback: goal_next_5
+2025-04-11 19:15:21,582 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 7
+2025-04-11 19:15:21,582 - bot.handlers.my_goals - INFO - Текущий индекс: 5
+2025-04-11 19:15:21,582 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 5
+2025-04-11 19:15:21,583 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 6
+2025-04-11 19:15:21,583 - bot.handlers.my_goals - INFO - Обновление индекса с 5 на 6
+2025-04-11 19:15:21,583 - bot.handlers.my_goals - INFO - Отображаем цель: ID=4, 'Выздороветь'
+2025-04-11 19:15:21,583 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 6, Всего: 7
+2025-04-11 19:15:21,584 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_6
+2025-04-11 19:15:21,584 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_6', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='7/7', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:15:21,730 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:15:21,730 - aiogram.event - INFO - Update id=257372971 is handled. Duration 154 ms by bot id=5880203343
+2025-04-11 19:15:24,601 - bot.handlers.my_goals - INFO - Получен callback: goal_prev_6
+2025-04-11 19:15:24,601 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 7
+2025-04-11 19:15:24,601 - bot.handlers.my_goals - INFO - Текущий индекс: 6
+2025-04-11 19:15:24,601 - bot.handlers.my_goals - INFO - Обработка действия: prev, индекс: 6
+2025-04-11 19:15:24,601 - bot.handlers.my_goals - INFO - Кнопка 'Назад'. Новый индекс: 5
+2025-04-11 19:15:24,602 - bot.handlers.my_goals - INFO - Обновление индекса с 6 на 5
+2025-04-11 19:15:24,602 - bot.handlers.my_goals - INFO - Отображаем цель: ID=6, 'Уволиться'
+2025-04-11 19:15:24,602 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 5, Всего: 7
+2025-04-11 19:15:24,602 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_5
+2025-04-11 19:15:24,603 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_5
+2025-04-11 19:15:24,603 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_5', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='6/7', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_5', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:15:24,696 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:15:24,697 - aiogram.event - INFO - Update id=257372972 is handled. Duration 100 ms by bot id=5880203343
+2025-04-11 19:15:25,956 - bot.handlers.my_goals - INFO - Получен callback: goal_prev_5
+2025-04-11 19:15:25,956 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 7
+2025-04-11 19:15:25,956 - bot.handlers.my_goals - INFO - Текущий индекс: 5
+2025-04-11 19:15:25,957 - bot.handlers.my_goals - INFO - Обработка действия: prev, индекс: 5
+2025-04-11 19:15:25,957 - bot.handlers.my_goals - INFO - Кнопка 'Назад'. Новый индекс: 4
+2025-04-11 19:15:25,957 - bot.handlers.my_goals - INFO - Обновление индекса с 5 на 4
+2025-04-11 19:15:25,957 - bot.handlers.my_goals - INFO - Отображаем цель: ID=40, 'Заебали'
+2025-04-11 19:15:25,958 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 4, Всего: 7
+2025-04-11 19:15:25,958 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_4
+2025-04-11 19:15:25,958 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_4
+2025-04-11 19:15:25,959 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_4', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='5/7', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_4', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:15:26,048 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:15:26,048 - aiogram.event - INFO - Update id=257372973 is handled. Duration 99 ms by bot id=5880203343
+2025-04-11 19:15:26,908 - bot.handlers.my_goals - INFO - Получен callback: goal_prev_4
+2025-04-11 19:15:26,909 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 7
+2025-04-11 19:15:26,909 - bot.handlers.my_goals - INFO - Текущий индекс: 4
+2025-04-11 19:15:26,909 - bot.handlers.my_goals - INFO - Обработка действия: prev, индекс: 4
+2025-04-11 19:15:26,909 - bot.handlers.my_goals - INFO - Кнопка 'Назад'. Новый индекс: 3
+2025-04-11 19:15:26,909 - bot.handlers.my_goals - INFO - Обновление индекса с 4 на 3
+2025-04-11 19:15:26,909 - bot.handlers.my_goals - INFO - Отображаем цель: ID=39, 'Научиться'
+2025-04-11 19:15:26,909 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 3, Всего: 7
+2025-04-11 19:15:26,909 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_3
+2025-04-11 19:15:26,910 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_3
+2025-04-11 19:15:26,910 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_3', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='4/7', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_3', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:15:27,007 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:15:27,007 - aiogram.event - INFO - Update id=257372974 is handled. Duration 105 ms by bot id=5880203343
+2025-04-11 19:15:27,677 - bot.handlers.my_goals - INFO - Получен callback: goal_prev_3
+2025-04-11 19:15:27,678 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 7
+2025-04-11 19:15:27,678 - bot.handlers.my_goals - INFO - Текущий индекс: 3
+2025-04-11 19:15:27,678 - bot.handlers.my_goals - INFO - Обработка действия: prev, индекс: 3
+2025-04-11 19:15:27,678 - bot.handlers.my_goals - INFO - Кнопка 'Назад'. Новый индекс: 2
+2025-04-11 19:15:27,678 - bot.handlers.my_goals - INFO - Обновление индекса с 3 на 2
+2025-04-11 19:15:27,678 - bot.handlers.my_goals - INFO - Отображаем цель: ID=5, 'Не сдохнуть'
+2025-04-11 19:15:27,679 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 2, Всего: 7
+2025-04-11 19:15:27,679 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_2
+2025-04-11 19:15:27,679 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_2
+2025-04-11 19:15:27,680 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='3/7', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:15:27,805 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:15:27,806 - aiogram.event - INFO - Update id=257372975 is handled. Duration 135 ms by bot id=5880203343
+2025-04-11 19:15:28,652 - bot.handlers.my_goals - INFO - Получен callback: goal_prev_2
+2025-04-11 19:15:28,652 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 7
+2025-04-11 19:15:28,652 - bot.handlers.my_goals - INFO - Текущий индекс: 2
+2025-04-11 19:15:28,652 - bot.handlers.my_goals - INFO - Обработка действия: prev, индекс: 2
+2025-04-11 19:15:28,652 - bot.handlers.my_goals - INFO - Кнопка 'Назад'. Новый индекс: 1
+2025-04-11 19:15:28,653 - bot.handlers.my_goals - INFO - Обновление индекса с 2 на 1
+2025-04-11 19:15:28,653 - bot.handlers.my_goals - INFO - Отображаем цель: ID=2, 'Похудеть'
+2025-04-11 19:15:28,654 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 1, Всего: 7
+2025-04-11 19:15:28,654 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_1
+2025-04-11 19:15:28,654 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_1
+2025-04-11 19:15:28,655 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='2/7', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:15:28,746 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:15:28,746 - aiogram.event - INFO - Update id=257372976 is handled. Duration 99 ms by bot id=5880203343
+2025-04-11 19:15:29,891 - bot.handlers.my_goals - INFO - Получен callback: goal_next_1
+2025-04-11 19:15:29,892 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 7
+2025-04-11 19:15:29,892 - bot.handlers.my_goals - INFO - Текущий индекс: 1
+2025-04-11 19:15:29,892 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 1
+2025-04-11 19:15:29,892 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 2
+2025-04-11 19:15:29,892 - bot.handlers.my_goals - INFO - Обновление индекса с 1 на 2
+2025-04-11 19:15:29,892 - bot.handlers.my_goals - INFO - Отображаем цель: ID=5, 'Не сдохнуть'
+2025-04-11 19:15:29,892 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 2, Всего: 7
+2025-04-11 19:15:29,892 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_2
+2025-04-11 19:15:29,893 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_2
+2025-04-11 19:15:29,893 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='3/7', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:15:30,181 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:15:30,182 - aiogram.event - INFO - Update id=257372977 is handled. Duration 296 ms by bot id=5880203343
+2025-04-11 19:15:31,564 - bot.handlers.my_goals - INFO - Получен callback: goal_prev_2
+2025-04-11 19:15:31,565 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 7
+2025-04-11 19:15:31,565 - bot.handlers.my_goals - INFO - Текущий индекс: 2
+2025-04-11 19:15:31,565 - bot.handlers.my_goals - INFO - Обработка действия: prev, индекс: 2
+2025-04-11 19:15:31,565 - bot.handlers.my_goals - INFO - Кнопка 'Назад'. Новый индекс: 1
+2025-04-11 19:15:31,565 - bot.handlers.my_goals - INFO - Обновление индекса с 2 на 1
+2025-04-11 19:15:31,566 - bot.handlers.my_goals - INFO - Отображаем цель: ID=2, 'Похудеть'
+2025-04-11 19:15:31,566 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 1, Всего: 7
+2025-04-11 19:15:31,566 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_1
+2025-04-11 19:15:31,566 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_1
+2025-04-11 19:15:31,567 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='2/7', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:15:31,662 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:15:31,663 - aiogram.event - INFO - Update id=257372978 is handled. Duration 103 ms by bot id=5880203343
+2025-04-11 19:15:32,987 - bot.handlers.my_goals - INFO - Получен callback: goal_prev_1
+2025-04-11 19:15:32,987 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 7
+2025-04-11 19:15:32,987 - bot.handlers.my_goals - INFO - Текущий индекс: 1
+2025-04-11 19:15:32,988 - bot.handlers.my_goals - INFO - Обработка действия: prev, индекс: 1
+2025-04-11 19:15:32,988 - bot.handlers.my_goals - INFO - Кнопка 'Назад'. Новый индекс: 0
+2025-04-11 19:15:32,988 - bot.handlers.my_goals - INFO - Обновление индекса с 1 на 0
+2025-04-11 19:15:32,988 - bot.handlers.my_goals - INFO - Отображаем цель: ID=41, 'Не сдохнуть'
+2025-04-11 19:15:32,989 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 0, Всего: 7
+2025-04-11 19:15:32,989 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_0
+2025-04-11 19:15:32,989 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='1/7', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_0', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:15:33,263 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:15:33,263 - aiogram.event - INFO - Update id=257372979 is handled. Duration 282 ms by bot id=5880203343
+2025-04-11 19:15:41,578 - aiogram.event - INFO - Update id=257372980 is not handled. Duration 7 ms by bot id=5880203343
+2025-04-11 19:15:47,208 - aiogram.event - INFO - Update id=257372981 is not handled. Duration 11 ms by bot id=5880203343
+2025-04-11 19:15:49,930 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_goals_menu
+2025-04-11 19:15:50,084 - aiogram.event - INFO - Update id=257372982 is handled. Duration 158 ms by bot id=5880203343
+2025-04-11 19:15:53,547 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:15:53,551 - bot.handlers.my_goals - INFO - Найдено активных целей: 7
+2025-04-11 19:15:53,551 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:15:53,551 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:15:54,059 - aiogram.event - INFO - Update id=257372983 is handled. Duration 514 ms by bot id=5880203343
+2025-04-11 19:15:56,406 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:15:56,411 - bot.handlers.my_goals - INFO - Найдено активных целей: 6
+2025-04-11 19:15:56,411 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:15:56,412 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:15:56,779 - aiogram.event - INFO - Update id=257372984 is handled. Duration 767 ms by bot id=5880203343
+2025-04-11 19:15:59,650 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:15:59,656 - bot.handlers.my_goals - INFO - Найдено активных целей: 5
+2025-04-11 19:15:59,657 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:15:59,657 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:16:00,852 - aiogram.event - INFO - Update id=257372985 is handled. Duration 1303 ms by bot id=5880203343
+2025-04-11 19:16:03,397 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:16:03,400 - bot.handlers.my_goals - INFO - Найдено активных целей: 4
+2025-04-11 19:16:03,401 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:16:03,401 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:16:03,624 - aiogram.event - INFO - Update id=257372987 is handled. Duration 342 ms by bot id=5880203343
+2025-04-11 19:16:03,684 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:16:03,689 - bot.handlers.my_goals - INFO - Найдено активных целей: 4
+2025-04-11 19:16:03,689 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:16:03,689 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:16:03,890 - aiogram.event - INFO - Update id=257372986 is handled. Duration 675 ms by bot id=5880203343
+2025-04-11 19:16:05,270 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:16:05,274 - bot.handlers.my_goals - INFO - Найдено активных целей: 3
+2025-04-11 19:16:05,274 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:16:05,274 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:16:05,564 - aiogram.event - INFO - Update id=257372988 is handled. Duration 623 ms by bot id=5880203343
+2025-04-11 19:16:06,940 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:16:06,943 - bot.handlers.my_goals - INFO - Найдено активных целей: 2
+2025-04-11 19:16:06,943 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:16:06,943 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:16:07,219 - aiogram.event - INFO - Update id=257372989 is handled. Duration 377 ms by bot id=5880203343
+2025-04-11 19:16:08,555 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:16:08,560 - bot.handlers.my_goals - INFO - Найдено активных целей: 1
+2025-04-11 19:16:08,560 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:16:08,560 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:16:08,824 - aiogram.event - INFO - Update id=257372990 is handled. Duration 422 ms by bot id=5880203343
+2025-04-11 19:16:11,724 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:16:11,729 - bot.handlers.my_goals - INFO - Найдено активных целей: 0
+2025-04-11 19:16:11,729 - bot.handlers.my_goals - WARNING - У пользователя нет активных целей
+2025-04-11 19:16:12,005 - aiogram.event - INFO - Update id=257372991 is handled. Duration 411 ms by bot id=5880203343
+2025-04-11 19:16:14,798 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_main
+2025-04-11 19:16:15,033 - aiogram.event - INFO - Update id=257372992 is handled. Duration 236 ms by bot id=5880203343
+2025-04-11 19:16:18,221 - aiogram.event - INFO - Update id=257372993 is handled. Duration 871 ms by bot id=5880203343
+2025-04-11 19:16:20,258 - aiogram.event - INFO - Update id=257372994 is handled. Duration 641 ms by bot id=5880203343
+2025-04-11 19:16:24,753 - aiogram.event - INFO - Update id=257372995 is handled. Duration 592 ms by bot id=5880203343
+2025-04-11 19:16:25,869 - aiogram.event - INFO - Update id=257372996 is handled. Duration 206 ms by bot id=5880203343
+2025-04-11 19:16:29,865 - aiogram.event - INFO - Update id=257372997 is handled. Duration 553 ms by bot id=5880203343
+2025-04-11 19:16:32,133 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_main
+2025-04-11 19:16:32,290 - aiogram.event - INFO - Update id=257372998 is handled. Duration 159 ms by bot id=5880203343
+2025-04-11 19:16:34,865 - aiogram.event - INFO - Update id=257372999 is handled. Duration 227 ms by bot id=5880203343
+2025-04-11 19:16:36,590 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:16:36,594 - bot.handlers.my_goals - INFO - Найдено активных целей: 1
+2025-04-11 19:16:36,595 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:16:36,595 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:16:37,716 - aiogram.event - INFO - Update id=257373000 is handled. Duration 1129 ms by bot id=5880203343
+2025-04-11 19:16:45,378 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_goals_menu
+2025-04-11 19:16:45,565 - aiogram.event - INFO - Update id=257373001 is handled. Duration 188 ms by bot id=5880203343
+2025-04-11 19:20:48,422 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_main
+2025-04-11 19:20:48,584 - aiogram.event - INFO - Update id=257373002 is handled. Duration 165 ms by bot id=5880203343
+2025-04-11 19:20:50,689 - aiogram.event - INFO - Update id=257373003 is handled. Duration 749 ms by bot id=5880203343
+2025-04-11 19:20:53,050 - aiogram.event - INFO - Update id=257373004 is handled. Duration 581 ms by bot id=5880203343
+2025-04-11 19:20:59,984 - aiogram.event - INFO - Update id=257373005 is handled. Duration 514 ms by bot id=5880203343
+2025-04-11 19:21:02,677 - bot.handlers.daedline_handler - ERROR - Goal creation error: 'NoneType' object has no attribute 'date'
+2025-04-11 19:21:03,038 - aiogram.event - INFO - Update id=257373006 is handled. Duration 369 ms by bot id=5880203343
+2025-04-11 19:25:23,456 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-11 19:25:23,458 - aiogram.dispatcher - INFO - Polling stopped for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-11 19:25:23,458 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-11 19:25:29,320 - aiogram.dispatcher - INFO - Start polling
+2025-04-11 19:25:30,162 - aiogram.dispatcher - INFO - Run polling for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-11 19:25:32,226 - aiogram.event - INFO - Update id=257373007 is not handled. Duration 11 ms by bot id=5880203343
+2025-04-11 19:25:40,569 - aiogram.event - INFO - Update id=257373008 is handled. Duration 291 ms by bot id=5880203343
+2025-04-11 19:25:42,877 - aiogram.event - INFO - Update id=257373009 is handled. Duration 220 ms by bot id=5880203343
+2025-04-11 19:25:44,262 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:25:44,270 - bot.handlers.my_goals - INFO - Найдено активных целей: 1
+2025-04-11 19:25:44,270 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:25:44,270 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:25:44,578 - aiogram.event - INFO - Update id=257373010 is handled. Duration 320 ms by bot id=5880203343
+2025-04-11 19:25:46,770 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_goals_menu
+2025-04-11 19:25:47,168 - aiogram.event - INFO - Update id=257373011 is handled. Duration 399 ms by bot id=5880203343
+2025-04-11 19:25:50,039 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_main
+2025-04-11 19:25:50,725 - aiogram.event - INFO - Update id=257373012 is handled. Duration 689 ms by bot id=5880203343
+2025-04-11 19:25:51,998 - aiogram.event - INFO - Update id=257373013 is handled. Duration 382 ms by bot id=5880203343
+2025-04-11 19:25:53,123 - aiogram.event - INFO - Update id=257373014 is handled. Duration 166 ms by bot id=5880203343
+2025-04-11 19:26:02,218 - aiogram.event - INFO - Update id=257373015 is handled. Duration 150 ms by bot id=5880203343
+2025-04-11 19:26:04,265 - aiogram.event - INFO - Update id=257373016 is handled. Duration 121 ms by bot id=5880203343
+2025-04-11 19:26:11,647 - aiogram.event - INFO - Update id=257373017 is handled. Duration 193 ms by bot id=5880203343
+2025-04-11 19:26:13,785 - aiogram.event - INFO - Update id=257373018 is handled. Duration 610 ms by bot id=5880203343
+2025-04-11 19:26:15,886 - aiogram.event - INFO - Update id=257373019 is handled. Duration 180 ms by bot id=5880203343
+2025-04-11 19:26:18,657 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:26:18,661 - bot.handlers.my_goals - INFO - Найдено активных целей: 2
+2025-04-11 19:26:18,662 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:26:18,662 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:26:19,702 - aiogram.event - INFO - Update id=257373020 is handled. Duration 1173 ms by bot id=5880203343
+2025-04-11 19:26:25,860 - bot.handlers.my_goals - INFO - Получен callback: goal_next_0
+2025-04-11 19:26:25,860 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 2
+2025-04-11 19:26:25,860 - bot.handlers.my_goals - INFO - Текущий индекс: 0
+2025-04-11 19:26:25,860 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 0
+2025-04-11 19:26:25,860 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 1
+2025-04-11 19:26:25,860 - bot.handlers.my_goals - INFO - Обновление индекса с 0 на 1
+2025-04-11 19:26:25,860 - bot.handlers.my_goals - INFO - Отображаем цель: ID=43, 'Перезимовать в Тае'
+2025-04-11 19:26:25,860 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 1, Всего: 2
+2025-04-11 19:26:25,861 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_1
+2025-04-11 19:26:25,861 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='2/2', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:26:25,958 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:26:25,958 - aiogram.event - INFO - Update id=257373021 is handled. Duration 101 ms by bot id=5880203343
+2025-04-11 19:26:27,683 - bot.handlers.my_goals - INFO - Получен callback: goal_prev_1
+2025-04-11 19:26:27,684 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 2
+2025-04-11 19:26:27,684 - bot.handlers.my_goals - INFO - Текущий индекс: 1
+2025-04-11 19:26:27,684 - bot.handlers.my_goals - INFO - Обработка действия: prev, индекс: 1
+2025-04-11 19:26:27,684 - bot.handlers.my_goals - INFO - Кнопка 'Назад'. Новый индекс: 0
+2025-04-11 19:26:27,685 - bot.handlers.my_goals - INFO - Обновление индекса с 1 на 0
+2025-04-11 19:26:27,685 - bot.handlers.my_goals - INFO - Отображаем цель: ID=42, 'Выздороветь'
+2025-04-11 19:26:27,685 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 0, Всего: 2
+2025-04-11 19:26:27,686 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_0
+2025-04-11 19:26:27,686 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='1/2', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_0', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:26:27,778 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:26:27,779 - aiogram.event - INFO - Update id=257373022 is handled. Duration 102 ms by bot id=5880203343
+2025-04-11 19:26:29,685 - bot.handlers.my_goals - INFO - Получен callback: goal_next_0
+2025-04-11 19:26:29,685 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 2
+2025-04-11 19:26:29,685 - bot.handlers.my_goals - INFO - Текущий индекс: 0
+2025-04-11 19:26:29,686 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 0
+2025-04-11 19:26:29,686 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 1
+2025-04-11 19:26:29,686 - bot.handlers.my_goals - INFO - Обновление индекса с 0 на 1
+2025-04-11 19:26:29,687 - bot.handlers.my_goals - INFO - Отображаем цель: ID=43, 'Перезимовать в Тае'
+2025-04-11 19:26:29,687 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 1, Всего: 2
+2025-04-11 19:26:29,687 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_1
+2025-04-11 19:26:29,688 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='2/2', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:26:29,944 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:26:29,944 - aiogram.event - INFO - Update id=257373023 is handled. Duration 267 ms by bot id=5880203343
+2025-04-11 19:26:32,821 - bot.handlers.my_goals - INFO - Получен callback: goal_prev_1
+2025-04-11 19:26:32,822 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 2
+2025-04-11 19:26:32,822 - bot.handlers.my_goals - INFO - Текущий индекс: 1
+2025-04-11 19:26:32,822 - bot.handlers.my_goals - INFO - Обработка действия: prev, индекс: 1
+2025-04-11 19:26:32,822 - bot.handlers.my_goals - INFO - Кнопка 'Назад'. Новый индекс: 0
+2025-04-11 19:26:32,822 - bot.handlers.my_goals - INFO - Обновление индекса с 1 на 0
+2025-04-11 19:26:32,823 - bot.handlers.my_goals - INFO - Отображаем цель: ID=42, 'Выздороветь'
+2025-04-11 19:26:32,823 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 0, Всего: 2
+2025-04-11 19:26:32,823 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_0
+2025-04-11 19:26:32,823 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='1/2', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_0', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:26:32,920 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:26:32,920 - aiogram.event - INFO - Update id=257373024 is handled. Duration 104 ms by bot id=5880203343
+2025-04-11 19:36:04,395 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-11 19:36:04,398 - aiogram.dispatcher - INFO - Polling stopped for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-11 19:36:04,398 - aiogram.dispatcher - INFO - Polling stopped
+2025-04-11 19:36:09,193 - aiogram.dispatcher - INFO - Start polling
+2025-04-11 19:36:10,121 - aiogram.dispatcher - INFO - Run polling for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-11 19:36:14,083 - aiogram.event - INFO - Update id=257373025 is handled. Duration 628 ms by bot id=5880203343
+2025-04-11 19:36:19,374 - aiogram.event - INFO - Update id=257373026 is handled. Duration 196 ms by bot id=5880203343
+2025-04-11 19:36:22,212 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:36:22,219 - bot.handlers.my_goals - INFO - Найдено активных целей: 2
+2025-04-11 19:36:22,219 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:36:22,219 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:36:22,421 - aiogram.event - INFO - Update id=257373027 is handled. Duration 212 ms by bot id=5880203343
+2025-04-11 19:36:26,635 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:36:26,642 - bot.handlers.my_goals - INFO - Найдено активных целей: 1
+2025-04-11 19:36:26,642 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:36:26,643 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:36:26,885 - aiogram.event - INFO - Update id=257373028 is handled. Duration 444 ms by bot id=5880203343
+2025-04-11 19:36:28,985 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:36:28,990 - bot.handlers.my_goals - INFO - Найдено активных целей: 1
+2025-04-11 19:36:28,990 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:36:28,991 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:36:29,087 - bot.handlers.my_goals - ERROR - Ошибка при показе активных целей: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-11 19:36:29,268 - aiogram.event - INFO - Update id=257373029 is handled. Duration 286 ms by bot id=5880203343
+2025-04-11 19:36:31,182 - aiogram.event - INFO - Update id=257373030 is handled. Duration 275 ms by bot id=5880203343
+2025-04-11 19:36:33,878 - aiogram.event - INFO - Update id=257373031 is handled. Duration 444 ms by bot id=5880203343
+2025-04-11 19:36:35,570 - bot.handlers.my_goals - ERROR - Error showing completed goals: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-11 19:36:35,801 - aiogram.event - INFO - Update id=257373032 is handled. Duration 329 ms by bot id=5880203343
+2025-04-11 19:36:37,842 - aiogram.event - INFO - Update id=257373033 is handled. Duration 246 ms by bot id=5880203343
+2025-04-11 19:36:40,575 - aiogram.event - INFO - Update id=257373034 is handled. Duration 529 ms by bot id=5880203343
+2025-04-11 19:36:43,928 - aiogram.event - INFO - Update id=257373035 is handled. Duration 1014 ms by bot id=5880203343
+2025-04-11 19:36:46,352 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:36:46,361 - bot.handlers.my_goals - INFO - Найдено активных целей: 1
+2025-04-11 19:36:46,362 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:36:46,362 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:36:46,546 - aiogram.event - INFO - Update id=257373036 is handled. Duration 198 ms by bot id=5880203343
+2025-04-11 19:36:50,827 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:36:50,830 - bot.handlers.my_goals - INFO - Найдено активных целей: 1
+2025-04-11 19:36:50,831 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:36:50,831 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:36:51,043 - bot.handlers.my_goals - ERROR - Ошибка при показе активных целей: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-11 19:36:52,341 - aiogram.event - INFO - Update id=257373037 is handled. Duration 1517 ms by bot id=5880203343
+2025-04-11 19:40:59,105 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_main
+2025-04-11 19:40:59,197 - aiogram.event - INFO - Update id=257373038 is handled. Duration 93 ms by bot id=5880203343
+2025-04-11 19:41:03,522 - aiogram.event - INFO - Update id=257373039 is handled. Duration 511 ms by bot id=5880203343
+2025-04-11 19:41:05,115 - aiogram.event - INFO - Update id=257373040 is handled. Duration 181 ms by bot id=5880203343
+2025-04-11 19:41:11,821 - aiogram.event - INFO - Update id=257373041 is handled. Duration 87 ms by bot id=5880203343
+2025-04-11 19:41:13,714 - aiogram.event - INFO - Update id=257373042 is handled. Duration 183 ms by bot id=5880203343
+2025-04-11 19:41:17,574 - aiogram.event - INFO - Update id=257373043 is handled. Duration 221 ms by bot id=5880203343
+2025-04-11 19:41:27,605 - aiogram.event - INFO - Update id=257373044 is handled. Duration 298 ms by bot id=5880203343
+2025-04-11 19:41:30,572 - aiogram.event - INFO - Update id=257373045 is handled. Duration 280 ms by bot id=5880203343
+2025-04-11 19:41:32,828 - bot.handlers.my_goals - INFO - Получен callback: goal_next_0
+2025-04-11 19:41:32,828 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 4
+2025-04-11 19:41:32,828 - bot.handlers.my_goals - INFO - Текущий индекс: 0
+2025-04-11 19:41:32,829 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 0
+2025-04-11 19:41:32,829 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 1
+2025-04-11 19:41:32,829 - bot.handlers.my_goals - INFO - Обновление индекса с 0 на 1
+2025-04-11 19:41:32,829 - bot.handlers.my_goals - INFO - Отображаем цель: ID=4, 'Выздороветь'
+2025-04-11 19:41:32,830 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 1, Всего: 4
+2025-04-11 19:41:32,830 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_1
+2025-04-11 19:41:32,830 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_1
+2025-04-11 19:41:32,831 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='2/4', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_1', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:41:32,910 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:41:32,911 - aiogram.event - INFO - Update id=257373046 is handled. Duration 88 ms by bot id=5880203343
+2025-04-11 19:41:34,624 - bot.handlers.my_goals - INFO - Получен callback: goal_next_1
+2025-04-11 19:41:34,625 - bot.handlers.my_goals - INFO - Найдено целей в состоянии: 4
+2025-04-11 19:41:34,625 - bot.handlers.my_goals - INFO - Текущий индекс: 1
+2025-04-11 19:41:34,625 - bot.handlers.my_goals - INFO - Обработка действия: next, индекс: 1
+2025-04-11 19:41:34,625 - bot.handlers.my_goals - INFO - Кнопка 'Вперед'. Новый индекс: 2
+2025-04-11 19:41:34,625 - bot.handlers.my_goals - INFO - Обновление индекса с 1 на 2
+2025-04-11 19:41:34,626 - bot.handlers.my_goals - INFO - Отображаем цель: ID=2, 'Похудеть'
+2025-04-11 19:41:34,626 - bot.handlers.my_goals - INFO - Генерация кнопок пагинации. Текущая: 2, Всего: 4
+2025-04-11 19:41:34,626 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Назад': goal_prev_2
+2025-04-11 19:41:34,627 - bot.handlers.my_goals - INFO - Добавлена кнопка 'Вперед': goal_next_2
+2025-04-11 19:41:34,627 - bot.handlers.my_goals - INFO - Сгенерированы кнопки: [[InlineKeyboardButton(text='⬅️ Назад', url=None, callback_data='goal_prev_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='3/4', url=None, callback_data='no_action', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None), InlineKeyboardButton(text='Вперед ➡️', url=None, callback_data='goal_next_2', web_app=None, login_url=None, switch_inline_query=None, switch_inline_query_current_chat=None, switch_inline_query_chosen_chat=None, copy_text=None, callback_game=None, pay=None)]]
+2025-04-11 19:41:34,708 - bot.handlers.my_goals - INFO - Сообщение успешно обновлено
+2025-04-11 19:41:34,708 - aiogram.event - INFO - Update id=257373047 is handled. Duration 90 ms by bot id=5880203343
+2025-04-11 19:41:35,883 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_goals_menu
+2025-04-11 19:41:36,679 - aiogram.event - INFO - Update id=257373048 is handled. Duration 798 ms by bot id=5880203343
+2025-04-11 19:41:38,150 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:41:38,155 - bot.handlers.my_goals - INFO - Найдено активных целей: 3
+2025-04-11 19:41:38,156 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:41:38,156 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:41:38,309 - aiogram.event - INFO - Update id=257373049 is handled. Duration 164 ms by bot id=5880203343
+2025-04-11 19:41:41,211 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:41:41,215 - bot.handlers.my_goals - INFO - Найдено активных целей: 2
+2025-04-11 19:41:41,216 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:41:41,216 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:41:41,728 - aiogram.event - INFO - Update id=257373050 is handled. Duration 632 ms by bot id=5880203343
+2025-04-11 19:41:43,561 - bot.handlers.my_goals - INFO - Загрузка активных целей...
+2025-04-11 19:41:43,564 - bot.handlers.my_goals - INFO - Найдено активных целей: 2
+2025-04-11 19:41:43,564 - bot.handlers.my_goals - INFO - Сохранение целей в состоянии...
+2025-04-11 19:41:43,564 - bot.handlers.my_goals - INFO - Отображение первой цели...
+2025-04-11 19:41:43,632 - bot.handlers.my_goals - ERROR - Ошибка при показе активных целей: Telegram server says - Bad Request: message is not modified: specified new message content and reply markup are exactly the same as a current content and reply markup of the message
+2025-04-11 19:41:43,798 - aiogram.event - INFO - Update id=257373051 is handled. Duration 240 ms by bot id=5880203343
+2025-04-11 19:41:49,405 - bot.handlers.back_handler - INFO - Processing back button with data: back_to_main
+2025-04-11 19:41:49,509 - aiogram.event - INFO - Update id=257373052 is handled. Duration 105 ms by bot id=5880203343
+2025-04-11 19:42:09,487 - aiogram.dispatcher - WARNING - Received SIGINT signal
+2025-04-11 19:42:09,490 - aiogram.dispatcher - INFO - Polling stopped for bot @FirstShlichaBot id=5880203343 - 'MyFirstBot_by_Shlicha'
+2025-04-11 19:42:09,490 - aiogram.dispatcher - INFO - Polling stopped
